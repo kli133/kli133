@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @kli133
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+# Обо мне
 
-<!---
-kli133/kli133 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Привет, я @kli133
+
+🤖 Я вайб-кодер — это значит, что я активно использую ИИ, потому что я плохой программист.
+
+🛠️ Делаю проекты в основном для себя и друзей, чтобы решать наши локальные задачи.
+
+🚀 Надеюсь, что эти наработки перерастут во что-то большее и смогут помочь другим людям.
+
+📫 Как со мной связаться: Discord kli133
